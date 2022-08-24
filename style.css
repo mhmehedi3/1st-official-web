@@ -65,4 +65,9 @@ h2{
 }
 footer{
     text-align: center;
+    padding-bottom: 0px;
+}
+#bio{
+    border-bottom: 0px;
+    height: 200px;
 }
